@@ -1,4 +1,4 @@
-const MONGODB_URL = "mongodb://localhost:27017/EmployeeDB";
+const MONGODB_URL = "mongodb+srv://saumitra12:babu199876@cluster0.esp3o.mongodb.net/myFirstDatabase?retryWrites=true&w=majority";
 const PORT = 5000;
 
 module.exports = { MONGODB_URL, PORT };
